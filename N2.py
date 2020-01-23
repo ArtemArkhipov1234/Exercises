@@ -1,0 +1,5 @@
+print("Привет, Python!")
+print("Hello, Python!")
+print("Bonjor Python!")
+print("Hej, Python!")
+print("Hola, Python!")

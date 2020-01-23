@@ -1,0 +1,6 @@
+s1 = input()
+s2 = input()
+s3 = input()
+s4 = input()
+s5 = input()
+print(s5 + "\n" + s4 + "\n" + s3 + "\n" + s2 + "\n" + s1)
